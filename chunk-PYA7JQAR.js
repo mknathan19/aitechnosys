@@ -1,0 +1,1 @@
+import{c as n,l as r,r as o,v as s}from"./chunk-QCK3BC6R.js";function h(t){t||(t=o(s));let i=new n(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(r(i))}var k={production:!0,apiBaseUrl:"",contactApiEnabled:!1,siteUrl:"https://aitechnosys.com"};export{h as a,k as b};
